@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Groups Pricing\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-19 11:52+0100\n"
+"PO-Revision-Date: 2015-06-19 11:53+0100\n"
+"Last-Translator: eggemplo <eggemplo@gmail.com>\n"
+"Language-Team: eggemplo <info@eggemplo.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../woo-groups-by-sales.php:75
+msgid ""
+"The <strong>Woocommerce Groups by Sales</strong> plugin requires the <a href="
+"\"http://wordpress.org/extend/plugins/groups\" target=\"_blank\">Groups</a> "
+"plugin to be activated."
+msgstr ""
+"El plugin <strong>Woocommerce Groups by Sales</strong> requiere <a href="
+"\"http://wordpress.org/extend/plugins/groups\" target=\"_blank\">Groups</a> "
+"para funcionar."
+
+#: ../woo-groups-by-sales.php:78
+msgid ""
+"The <strong>Woocommerce Groups by Sales</strong> plugin requires the <a href="
+"\"http://wordpress.org/extend/plugins/woocommerce\" target=\"_blank"
+"\">Woocommerce</a> plugin to be activated."
+msgstr ""
+"El plugin <strong>Woocommerce Groups by Sales</strong> requiere <a href="
+"\"http://wordpress.org/extend/plugins/woocommerce\" target=\"_blank"
+"\">Woocommerce</a> para funcionar."
+
+#: ../woo-groups-by-sales.php:127 ../woo-groups-by-sales.php:128
+msgid "Groups by Sales"
+msgstr "Grupos por Ventas"
+
+#: ../woo-groups-by-sales.php:138
+msgid "Woocommerce Groups by Sales"
+msgstr "Woocommerce Groups by Sales"
+
+#: ../woo-groups-by-sales.php:144
+msgid "Options updated"
+msgstr "Opciones guardadas"
+
+#: ../woo-groups-by-sales.php:170
+msgid "Levels:"
+msgstr "Niveles:"
+
+#: ../woo-groups-by-sales.php:181
+msgid "Range 0:"
+msgstr "Rango 0:"
+
+#: ../woo-groups-by-sales.php:187 ../woo-groups-by-sales.php:218
+msgid "Select one"
+msgstr "Seleccione uno"
+
+#: ../woo-groups-by-sales.php:208
+msgid "Range "
+msgstr "Rango"
+
+#: ../woo-groups-by-sales.php:246
+msgid "Save"
+msgstr "Guardar"
+
+#~ msgid ""
+#~ "Leave empty if no custom group discount should be applied to this "
+#~ "category."
+#~ msgstr "Deje vacío si no desea un valor personalizado para esta categoría."
+
+#~ msgid "Groups Pricing"
+#~ msgstr "Group Pricing"
+
+#~ msgid ""
+#~ "Leave empty if no custom group discount should be applied to this product "
+#~ "(default setting)."
+#~ msgstr ""
+#~ "Deje vacío si no desea un descuento personalizado para este producto (se "
+#~ "usará el valor por defecto)."
+
+#~ msgid "Group Pricing"
+#~ msgstr "Group Pricing"
+
+#~ msgid "Saved"
+#~ msgstr "Guardado"
+
+#~ msgid "Products discount method:"
+#~ msgstr "Método de descuento:"
+
+#~ msgid "Apply to:"
+#~ msgstr "Aplicar a:"
+
+#~ msgid "If in several groups:"
+#~ msgstr "Si está en varios grupos:"
+
+#~ msgid "Groups:"
+#~ msgstr "Grupos:"
+
+#~ msgid "eShop2MailChimp"
+#~ msgstr "eShop2MailChimp"
+
+#~ msgid "eShop 2 MailChimp"
+#~ msgstr "eShop 2 MailChimp"
+
+#~ msgid "API Key:"
+#~ msgstr "API Key:"
+
+#~ msgid ""
+#~ "MailChimp API KEY. You can get it in MailChimp: Account -> API Keys & "
+#~ "Authorized Apps "
+#~ msgstr ""
+#~ "API KEY de Mailchimp. Puede conseguirla dentro de tu cuenta de Mailchimp: "
+#~ "Mi cuenta -> API Keys"
+
+#~ msgid "List name:"
+#~ msgstr "Nombre de la lista:"
+
+#~ msgid "Subgroups name:"
+#~ msgstr "Nombre de los subgrupos:"
+
+#~ msgid "Comma separated subgroups."
+#~ msgstr "Subgrupos separados por comas."
+
+#~ msgid "Opt-in"
+#~ msgstr "Opt-in"
+
+#~ msgid "Signup form title:"
+#~ msgstr "Título del formulario:"
+
+#~ msgid "Newsletter"
+#~ msgstr "Boletín de noticias"
+
+#~ msgid "Signup form text:"
+#~ msgstr "Texto del formulario:"
+
+#~ msgid "Subscribe me to newsletter."
+#~ msgstr "Suscríbeme al boletín de noticias."
+
+#~ msgid "Opt-in confirmation email:"
+#~ msgstr "Opt-in email de confirmación:"
+
+#~ msgid "YES"
+#~ msgstr "SI"
+
+#~ msgid "NO"
+#~ msgstr "NO"
+
+#~ msgid ""
+#~ "Control whether a double opt-in confirmation message is sent. Abusing "
+#~ "this may cause your mailchimp account to be suspended."
+#~ msgstr ""
+#~ "Un mensaje de confirmación será enviado a los usuarios. Si abusa de no "
+#~ "usar confirmaciones, su cuenta de mailchimp puede ser suspendida por "
+#~ "considerarle spam."
+
+#~ msgid "Subscribed"
+#~ msgstr "Suscrito"
+
+#~ msgid "Not subscribed"
+#~ msgstr "No suscrito"
+
+#~ msgid "Groups to MailChimp"
+#~ msgstr "Groups to MailChimp"
+
+#~ msgid "Need confirm:"
+#~ msgstr "Necesita confirmación:"
+
+#~ msgid "Synchronize"
+#~ msgstr "Sincronizar"
+
+#~ msgid ""
+#~ "Use this for synchronize existing users in website with mailchimp. If the "
+#~ "user has not subscribed, then he will not be synchronized."
+#~ msgstr ""
+#~ "Úsalo para sincronizar los usuarios ya existentes con Mailchimp. Si el "
+#~ "usuario no se ha suscrito, entonces no será sincronizado."
+
+#~ msgid "Subscribe me to newsletter"
+#~ msgstr "Suscríbeme al boletín de noticias"
+
+#~ msgid "Use roles as subgroups:"
+#~ msgstr "Usar roles como subgrupos:"
+
+#~ msgid ""
+#~ "Creates as many subgroups as there are roles (if checked, \"Subgroup name"
+#~ "\" is ignored)."
+#~ msgstr ""
+#~ "Crea tantos subgrupos como roles tienen los usuarios (la opción de "
+#~ "\"Nombre del subgrupo\" será ignorada)."
